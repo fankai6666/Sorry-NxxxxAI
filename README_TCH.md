@@ -6,6 +6,12 @@
 
 我今後不會再寫有關 novelai 的東西。 不過我會試著寫寫看 "ImageAI" 相關的東西。
 
+# 我今後不會再做 NovelAI 的安裝教學
+## 不過我做了新的 "ImageAI" 教學，歡迎閱覽
+* [ImageAI colab 版](https://github.com/JingShing/ImageAI-colab-ver)
+* [ImageAI low vram 版](https://github.com/JingShing/ImageAI-4chan-lowvram-ver)
+* [ImageAI 安裝教學](https://github.com/JingShing/ImgaeAI-installation-tutorial)
+
 # 我對我向 NovelAI 所做的一切感到羞愧
 ## 所以做了 [這支影片向 NovelAI 致歉](https://www.youtube.com/watch?v=TyIL7XjMUaw)
 
