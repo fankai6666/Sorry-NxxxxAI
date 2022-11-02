@@ -8,9 +8,9 @@ I will not write anythin about novelai. But I will write something about "ImageA
 
 # I don't do any tutorial for NovelAI now
 ## I done some new repo and tutorial called "ImageAI" Please take a look
-* [Image AI colab ver](https://github.com/JingShing/ImageAI-colab-ver)
-* [Image AI low vram ver](https://github.com/JingShing/ImageAI-4chan-lowvram-ver)
-* [Image AI installation tutorial](https://github.com/JingShing/ImgaeAI-installation-tutorial)
+* [ImageAI colab ver](https://github.com/JingShing/ImageAI-colab-ver)
+* [ImageAI low vram ver](https://github.com/JingShing/ImageAI-4chan-lowvram-ver)
+* [ImageAI installation tutorial](https://github.com/JingShing/ImgaeAI-installation-tutorial)
 
 # I am so sad about what I had done
 ## I made [this vid for apologize to NovelAI](https://www.youtube.com/watch?v=TyIL7XjMUaw)
