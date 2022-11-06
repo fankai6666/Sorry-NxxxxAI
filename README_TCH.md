@@ -25,4 +25,4 @@
 
 這個工具和這個 [和AI無關的加密腳本](a_script_not_for_ai) 沒有關係。只是順帶一提。
 
-解密用的金鑰和這篇文章的 tag 一定沒有關係。
+解密用的金鑰和這篇文章的 [這支向 NovelAI 致歉的影片](https://www.youtube.com/watch?v=TyIL7XjMUaw) 一定沒有關係。
