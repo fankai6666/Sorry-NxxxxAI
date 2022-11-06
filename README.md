@@ -25,4 +25,4 @@ You can get it [here](https://github.com/JingShing/Encryptor-Decryptor).
 
 That tool has no matter with [a encrypted script not for ai](a_script_not_for_ai).
 
-decrypt key definitely has no matter with the tag of this repo.
+decrypt key definitely has no matter with [this vid for apologize to NovelAI](https://www.youtube.com/watch?v=TyIL7XjMUaw) of this repo.
